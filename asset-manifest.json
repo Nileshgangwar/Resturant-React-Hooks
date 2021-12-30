@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Resturant-React-Hooks/static/css/main.ba91f631.chunk.css",
+    "main.js": "/Resturant-React-Hooks/static/js/main.b3d26d09.chunk.js",
+    "main.js.map": "/Resturant-React-Hooks/static/js/main.b3d26d09.chunk.js.map",
+    "runtime-main.js": "/Resturant-React-Hooks/static/js/runtime-main.2b55a11f.js",
+    "runtime-main.js.map": "/Resturant-React-Hooks/static/js/runtime-main.2b55a11f.js.map",
+    "static/js/2.19885310.chunk.js": "/Resturant-React-Hooks/static/js/2.19885310.chunk.js",
+    "static/js/2.19885310.chunk.js.map": "/Resturant-React-Hooks/static/js/2.19885310.chunk.js.map",
+    "static/js/3.53568408.chunk.js": "/Resturant-React-Hooks/static/js/3.53568408.chunk.js",
+    "static/js/3.53568408.chunk.js.map": "/Resturant-React-Hooks/static/js/3.53568408.chunk.js.map",
+    "index.html": "/Resturant-React-Hooks/index.html",
+    "static/css/main.ba91f631.chunk.css.map": "/Resturant-React-Hooks/static/css/main.ba91f631.chunk.css.map",
+    "static/js/2.19885310.chunk.js.LICENSE.txt": "/Resturant-React-Hooks/static/js/2.19885310.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b55a11f.js",
+    "static/js/2.19885310.chunk.js",
+    "static/css/main.ba91f631.chunk.css",
+    "static/js/main.b3d26d09.chunk.js"
+  ]
+}
